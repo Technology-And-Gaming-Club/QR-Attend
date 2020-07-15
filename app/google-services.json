@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "894252583478",
+    "firebase_url": "https://bookrecognitionapp.firebaseio.com",
+    "project_id": "bookrecognitionapp",
+    "storage_bucket": "bookrecognitionapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894252583478:android:5919c4895d0b989c1c2697",
+        "android_client_info": {
+          "package_name": "com.example.bookrecog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894252583478-5r71g9lg6fbmggqcenau6mil92a7h0nu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD__0xqggXIUNSFQP2vYBI5kZVEcasu6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894252583478-5r71g9lg6fbmggqcenau6mil92a7h0nu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
