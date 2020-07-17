@@ -6,6 +6,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com)
 
 An Android App which scans QR Codes to mark attendance for events (v1.0)
+Status:Work in Progress
 ## Libraries used:
 
  1. [Lottie](https://github.com/airbnb/lottie-android) :  For animations
